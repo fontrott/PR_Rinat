@@ -1,0 +1,14 @@
+D:\Практические Ринат\ПР_12.2\ПР_12.2\bin\Debug\net8.0\ПР_12.2.exe
+D:\Практические Ринат\ПР_12.2\ПР_12.2\bin\Debug\net8.0\ПР_12.2.deps.json
+D:\Практические Ринат\ПР_12.2\ПР_12.2\bin\Debug\net8.0\ПР_12.2.runtimeconfig.json
+D:\Практические Ринат\ПР_12.2\ПР_12.2\bin\Debug\net8.0\ПР_12.2.dll
+D:\Практические Ринат\ПР_12.2\ПР_12.2\bin\Debug\net8.0\ПР_12.2.pdb
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.AssemblyInfoInputs.cache
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.AssemblyInfo.cs
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.csproj.CoreCompileInputs.cache
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.dll
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\refint\ПР_12.2.dll
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.pdb
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ПР_12.2.genruntimeconfig.cache
+D:\Практические Ринат\ПР_12.2\ПР_12.2\obj\Debug\net8.0\ref\ПР_12.2.dll

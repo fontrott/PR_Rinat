@@ -1,0 +1,28 @@
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.exe
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.deps.json
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.runtimeconfig.json
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.dll
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.pdb
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.AssemblyInfoInputs.cache
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.AssemblyInfo.cs
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.csproj.CoreCompileInputs.cache
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.dll
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\refint\ПР_12.1.dll
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.pdb
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.genruntimeconfig.cache
+C:\Users\gferb\source\repos\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ref\ПР_12.1.dll
+D:\Практические Ринат\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.exe
+D:\Практические Ринат\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.deps.json
+D:\Практические Ринат\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.runtimeconfig.json
+D:\Практические Ринат\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.dll
+D:\Практические Ринат\ПР_12.1\ПР_12.1\bin\Debug\net8.0\ПР_12.1.pdb
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.AssemblyInfoInputs.cache
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.AssemblyInfo.cs
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.csproj.CoreCompileInputs.cache
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.dll
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\refint\ПР_12.1.dll
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.pdb
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ПР_12.1.genruntimeconfig.cache
+D:\Практические Ринат\ПР_12.1\ПР_12.1\obj\Debug\net8.0\ref\ПР_12.1.dll
