@@ -1,0 +1,36 @@
+C:\Users\gferb\source\repos\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.exe
+C:\Users\gferb\source\repos\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.deps.json
+C:\Users\gferb\source\repos\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.runtimeconfig.json
+C:\Users\gferb\source\repos\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.dll
+C:\Users\gferb\source\repos\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.pdb
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.AssemblyInfoInputs.cache
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.AssemblyInfo.cs
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.csproj.CoreCompileInputs.cache
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.dll
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\refint\PR_19.dll
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.pdb
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.genruntimeconfig.cache
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\ref\PR_19.dll
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.Form1.resources
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.csproj.GenerateResource.cache
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.Form2.resources
+C:\Users\gferb\source\repos\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.Properties.Resources.resources
+D:\Практические Ринат\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.exe
+D:\Практические Ринат\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.deps.json
+D:\Практические Ринат\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.runtimeconfig.json
+D:\Практические Ринат\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.dll
+D:\Практические Ринат\PR_19\PR_19\bin\Debug\net8.0-windows\PR_19.pdb
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.Form1.resources
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.Form2.resources
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.Properties.Resources.resources
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.csproj.GenerateResource.cache
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.AssemblyInfoInputs.cache
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.AssemblyInfo.cs
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.csproj.CoreCompileInputs.cache
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.dll
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\refint\PR_19.dll
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.pdb
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\PR_19.genruntimeconfig.cache
+D:\Практические Ринат\PR_19\PR_19\obj\Debug\net8.0-windows\ref\PR_19.dll
